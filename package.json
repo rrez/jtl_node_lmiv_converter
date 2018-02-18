@@ -1,0 +1,24 @@
+{
+  "name": "jtl_node_lmiv_converter",
+  "version": "1.0.0",
+  "description": "Erzeugt aus dem lmiv xml eine Berschreibung mit Nährwertangaben",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrez/jtl_node_lmiv_converter.git"
+  },
+  "keywords": [
+    "lmiv",
+    "jtl",
+    "shop"
+  ],
+  "author": "Robert Rez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrez/jtl_node_lmiv_converter/issues"
+  },
+  "homepage": "https://github.com/rrez/jtl_node_lmiv_converter#readme"
+}
